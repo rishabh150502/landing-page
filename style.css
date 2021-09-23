@@ -130,3 +130,24 @@ body{
     padding: 30px;
     color: #E5E7EB;
 }
+.header-box1>button{
+    margin: 0px;
+    padding: 8px 40px;
+    border-style: none;
+    background-color: #3882F6;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+.blue-box>button{
+    margin: 0px;
+    padding: 8px 40px;
+    border-style: none;
+    border: 2px solid #F9FAF8;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
