@@ -89,7 +89,7 @@ body{
     text-align: center;
 }
 .section3{
-    padding: 35px 85px;
+    padding: 55px 215px;
     background-color: #E5E7EB;
     font-weight: light;
     font-size: 36px;
@@ -100,4 +100,27 @@ body{
     font-size: 24px;
     font-weight: bold;
     text-align: right;
+}
+.section4{
+    padding: 100px 10%;
+}
+.section4>.blue-box{
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 70px;
+    border-radius: 10px;
+    color: #F9FAF8;
+}
+.blue-box>button{
+    align-self: center;
+}
+.text>h2{
+    padding: 0px;
+    margin: 0px;
+}
+.text>p{
+    margin: 5px;
+    padding: 0px;
+    color: #E5E7EB;
 }
